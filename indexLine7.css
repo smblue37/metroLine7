@@ -1,0 +1,31 @@
+html, body {
+    height: 1080px;
+    width: 1920px;
+    margin: 0;
+    padding: 0;
+}
+
+#entire {
+    display: flex;
+    justify-content: center;
+}
+
+#lineImg {
+    height: 100%;
+    margin-top: 30px;
+}
+
+img {
+    height: 21.5px;
+    width: 18px;
+}
+
+#img {
+    height: 1080px;
+    width: 1223px;
+    object-fit: cover;
+}
+
+#forMarker {
+    position: relative;
+}
